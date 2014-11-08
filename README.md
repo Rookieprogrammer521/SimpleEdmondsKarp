@@ -1,4 +1,4 @@
-SimpleEdmondsKarp
+Simple Edmonds Karp Implementation in Python
 =================
 
 Algorithm used:
